@@ -1,0 +1,12 @@
+https://www.kaggle.com/datasets/msambare/fer2013 ---> Emotion Recognition
+
+https://www.kaggle.com/datasets/shawon10/ckplus ---> Emotions
+
+https://www.openslr.org/31/ ---> download the dev-clean-2.tar.gz – speech recognition - OpenSLR
+
+https://www.cs.columbia.edu/CAVE/databases/columbia_gaze/ ---> eye gaze Tracking
+
+
+https://ultralytics.com/assets/coco8-pose.zip ---> body pose testing - ultralytics(direct download from the link)
+
+https://www.kaggle.com/datasets/4quant/eye-gaze?select=gaze.csv ---> only csv file- eye gaze
